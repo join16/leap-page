@@ -1,4 +1,4 @@
-# Nerfies
+# NLOS LEAP project page
 
 This repository contains source code for [the project page](https://join16.github.io/leap-page) of the paper, "Learning to Enhance Aperture Phasor Field for Non-Line-of-Sight Imaging".
 We sincerely thank the authors of Nerfies for sharing their source code of the project page.
